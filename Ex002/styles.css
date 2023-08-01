@@ -1,0 +1,15 @@
+.eur {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://img.elo7.com.br/product/original/3A48F88/de-20-fotos-em-8k-resolucao-walpaper-europa-natureza-pack-de-imagens.jpg);
+    font-style: italic;
+}
